@@ -1,0 +1,38 @@
+{
+    margin: 0;
+    padding: 0;
+    color:burlywood;
+    
+}
+<style>
+            .headh1{
+          color:brown;
+            background-color:blue;
+            font-size:50px; 
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-weight:bold;
+            font-style:italic; 
+            height:40px;
+            text-decoration:underline;
+          opacity:1;
+          line-height:2;
+            }
+            #headid{
+                color:green;
+                border:2px solid red;
+                width:500px;
+                background-color:palevioletred;
+                height:10;
+                border-radius:40%;
+                line-height:3;
+                text-size:25px;
+            }
+
+
+
+
+
+
+
+          
+      
